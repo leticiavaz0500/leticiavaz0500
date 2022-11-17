@@ -1,6 +1,6 @@
 - #Sobremim:
 - ##Editando perfil:
-- 👋 Oi, eu sou Leticia 
+- 👋 Oi, eu sou Leticia Gabriele Vaz
 - 👀 Estou interessada em estudar ingles e programacao
 - 🌱 Estou no primeiro ano do ensino medio e aprendendo programacao
 - 😭 Gosto de jogar RPG e dardos 
